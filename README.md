@@ -1,4 +1,4 @@
-# petling 🐾
+# Petling 🐾
 
 Projeto Integrador das disciplinas de Engenharia de Software III e Programação Back-End da Universidade Católica de Pelotas - UCPel.
 
