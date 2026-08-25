@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="MPMjyFBXy20cUKjRQlTY">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="560" width="310" x="150" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-2" edge="1" parent="1" source="gpKWO6ckz9sjjqpxUyYV-1" style="endArrow=none;html=1;rounded=0;entryX=0.997;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" target="gpKWO6ckz9sjjqpxUyYV-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="149.07" y="165.76" as="sourcePoint" />
+            <mxPoint x="480" y="85.75999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PETLING - ÁREA ADMINISTRATIVA            │&lt;br/&gt;│ Animais | Solicitações | Sair&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="200" x="240" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Petling&amp;nbsp;🐾&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="110" x="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;GERENCIAMENTO DE ANIMAIS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="175" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-6" edge="1" parent="1" source="gpKWO6ckz9sjjqpxUyYV-1" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" target="gpKWO6ckz9sjjqpxUyYV-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" Petling | Contato | Redes  " vertex="1">
+          <mxGeometry height="30" width="220" x="200" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;[ CADASTRAR NOVO ANIMAL ]&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="210" x="200" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="205" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BOB&lt;div&gt;&lt;br&gt;&lt;div&gt;Cão |&amp;nbsp; Médio I Disponível&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="210" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ EDITAR ] [ EXCLUIR ] [ STATUS ]" vertex="1">
+          <mxGeometry height="30" width="200" x="210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="205" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TED&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Cão | Médio | Em adoção&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="205" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ EDITAR ] [ EXCLUIR ] [ STATUS ]" vertex="1">
+          <mxGeometry height="30" width="200" x="205" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="205" y="453" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BOLINHA&lt;div&gt;&lt;br&gt;&lt;div&gt;Cão | Médio | Adotado&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="205" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ EDITAR ] [ EXCLUIR ] [ STATUS ]" vertex="1">
+          <mxGeometry height="30" width="200" x="205" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="gpKWO6ckz9sjjqpxUyYV-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ Anterior ]  1  2  3  [ Próxima ]" vertex="1">
+          <mxGeometry height="30" width="180" x="215" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
