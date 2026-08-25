@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="CXvvRs3NoNRIkElQFG9s">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="560" width="310" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-2" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;entryX=0.997;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" target="jCS5tZoQttNYlJ2mMTnl-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="179.07" y="175.76" as="sourcePoint" />
+            <mxPoint x="510" y="95.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Início&amp;nbsp; |&amp;nbsp; Sobre | Animais |&lt;div&gt;Contato&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="330" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Petling&amp;nbsp;🐾&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="110" x="190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-7" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;exitX=0.003;exitY=0.402;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="449.09000000000003" as="sourcePoint" />
+            <mxPoint x="490.93" y="305.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="   ENCONTRE UM NOVO AMIGO&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;div&gt;&amp;nbsp; Animais resgatados esperando um lar&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;[ VER ANIMAIS ]              &lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="230" x="220" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="70" x="200" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FOTO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ver detalhes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="70" x="300" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="70" x="410" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FOTO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ver detalhes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="300" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FOTO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bolinha&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ver detalhes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="410" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-20" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.738;exitDx=0;exitDy=0;exitPerimeter=0;" target="jCS5tZoQttNYlJ2mMTnl-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="490" as="sourcePoint" />
+            <mxPoint x="480" y="493.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="   SOBRE O PETLING&lt;div&gt;&lt;br&gt;Pequeno texto sobre a plataforma&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="290" x="190" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-22" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" target="jCS5tZoQttNYlJ2mMTnl-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" Petling | Contato | Redes  " vertex="1">
+          <mxGeometry height="30" width="220" x="230" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ANIMAIS EM DESTAQUE" vertex="1">
+          <mxGeometry height="30" width="170" x="255" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
