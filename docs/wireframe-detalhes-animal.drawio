@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" scale="1" border="0">
+  <diagram name="Página-1" id="CXvvRs3NoNRIkElQFG9s">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="560" width="310" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-2" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;entryX=0.997;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" target="jCS5tZoQttNYlJ2mMTnl-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="179.07" y="175.76" as="sourcePoint" />
+            <mxPoint x="510" y="95.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Início&amp;nbsp; |&amp;nbsp; Sobre | Animais |&lt;div&gt;Contato&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="330" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Petling&amp;nbsp;🐾&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="110" x="190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;DETALHES DO ANIMAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="270" x="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-22" edge="1" parent="1" source="jCS5tZoQttNYlJ2mMTnl-1" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" target="jCS5tZoQttNYlJ2mMTnl-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCS5tZoQttNYlJ2mMTnl-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" Petling | Contato | Redes  " vertex="1">
+          <mxGeometry height="30" width="220" x="230" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HCdW8pLWxPD7Psx5JO3j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="255" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HCdW8pLWxPD7Psx5JO3j-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FOTO" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HCdW8pLWxPD7Psx5JO3j-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nome: Bob&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Espécie: Cão&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Raça:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SRD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sexo: Macho&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Idade: 3 anos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Porte: Médio&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Status: Disponível&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="130" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HCdW8pLWxPD7Psx5JO3j-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Descrição: Bob é dócil e brincalhão..." vertex="1">
+          <mxGeometry height="30" width="280" x="190" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="HCdW8pLWxPD7Psx5JO3j-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ TENHO INTERESSE ]" vertex="1">
+          <mxGeometry height="30" width="160" x="260" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
