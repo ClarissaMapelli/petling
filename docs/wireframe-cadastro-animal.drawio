@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Clexm6gmvpy-AKAkht-6">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="590" width="320" x="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.997;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" target="RZCBbUL3-j-YSaWxZDA8-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="49.07" y="100" as="sourcePoint" />
+            <mxPoint x="380" y="45.75999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Início&amp;nbsp; |&amp;nbsp; Sobre | Animais |&lt;div&gt;Contato&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Petling&amp;nbsp;🐾&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="110" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CADASTRO DE ANIMAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="270" x="75" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-6" edge="1" parent="1" source="RZCBbUL3-j-YSaWxZDA8-1" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" target="RZCBbUL3-j-YSaWxZDA8-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="390" as="sourcePoint" />
+            <mxPoint x="310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" Petling | Contato | Redes  " vertex="1">
+          <mxGeometry height="30" width="220" x="100" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Foto&lt;br&gt;[ Selecionar imagem ]&lt;div&gt;[ SALVAR ]   [ CANCELAR ]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="130" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="RZCBbUL3-j-YSaWxZDA8-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;Nome do animal [.............................................................................]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Espécie&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Raça&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Sexo&lt;/div&gt;&lt;div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Idade&lt;/div&gt;&lt;div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Porte&lt;/div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Status&lt;/div&gt;&lt;div&gt;[.............................................................................]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Descrição&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[.............................................................................]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="290" x="65" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
