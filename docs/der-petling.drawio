@@ -28,7 +28,7 @@
             <mxPoint x="120" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UsHJ30KSRPCek81EPLtS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;PK id&lt;div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;senha&lt;/div&gt;&lt;div&gt;data_cadastro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="UsHJ30KSRPCek81EPLtS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;PK id&lt;div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;senha_hash&lt;/div&gt;&lt;div&gt;data_cadastro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="107.5" width="80" x="20" y="50" as="geometry" />
         </mxCell>
         <mxCell id="UsHJ30KSRPCek81EPLtS-13" edge="1" parent="1" source="UsHJ30KSRPCek81EPLtS-3" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.17;entryDx=0;entryDy=0;exitX=0.005;exitY=0.174;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" target="UsHJ30KSRPCek81EPLtS-3" value="">
