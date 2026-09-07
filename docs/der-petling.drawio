@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="O9rGfJEtT7_13knioTfj">
+    <mxGraphModel dx="1433" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UsHJ30KSRPCek81EPLtS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="190" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ADMINISTRADORES" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="190" x="20" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ANIMAIS" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="190" x="20" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SOLICITACOES_ADOCAO" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-11" edge="1" parent="1" source="UsHJ30KSRPCek81EPLtS-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="UsHJ30KSRPCek81EPLtS-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="70" y="100" as="sourcePoint" />
+            <mxPoint x="120" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;PK id&lt;div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;senha&lt;/div&gt;&lt;div&gt;data_cadastro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="107.5" width="80" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-13" edge="1" parent="1" source="UsHJ30KSRPCek81EPLtS-3" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.17;entryDx=0;entryDy=0;exitX=0.005;exitY=0.174;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" target="UsHJ30KSRPCek81EPLtS-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="14.999999999999968" y="233" as="sourcePoint" />
+            <mxPoint x="205.00000000000009" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;PK id&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;especie&lt;/div&gt;&lt;div&gt;raca&lt;/div&gt;&lt;div&gt;sexo&lt;/div&gt;&lt;div&gt;idade&lt;/div&gt;&lt;div&gt;porte&lt;/div&gt;&lt;div&gt;descricao&lt;/div&gt;&lt;div&gt;foto&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;data_cadastro&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="35" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-15" edge="1" parent="1" source="UsHJ30KSRPCek81EPLtS-5" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="UsHJ30KSRPCek81EPLtS-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="85" y="560" as="sourcePoint" />
+            <mxPoint x="135" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;PK id&amp;nbsp;&lt;div&gt;FK animal_id&lt;/div&gt;&lt;div&gt;nome_interessado&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;telefone&lt;/div&gt;&lt;div&gt;mensagem&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;data_solicitacao&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-19" edge="1" parent="1" source="UsHJ30KSRPCek81EPLtS-5" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="UsHJ30KSRPCek81EPLtS-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="490" as="sourcePoint" />
+            <mxPoint x="130" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHJ30KSRPCek81EPLtS-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
